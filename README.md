@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+#Youtube Search 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project, I used useState and useEffect to search video with youtube free api. I listed 5 videos for each search. It is searching 500ms later after we wrote what we write to input. First video of the list is selected to watch.
 
 ## Available Scripts
 
@@ -12,6 +12,3 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
